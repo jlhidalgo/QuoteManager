@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/QuoteManager/obj
+/QuoteManager/.vs/QuoteManager/v16/.suo

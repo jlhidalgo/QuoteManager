@@ -6,7 +6,7 @@ namespace QuoteManager
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Juan!");
+            Console.WriteLine("Hello World!");
         }
     }
 }

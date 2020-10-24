@@ -2,11 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
 /QuoteManager/obj
-/QuoteManager/.vs/QuoteManager/v16/.suo
-/QuoteManager/.vs/QuoteManager/v16/TestStore/0
 /QuoteManager/bin/Debug/netcoreapp3.1
 /QuoteManager.Test/obj
 /QuoteManager.Test/bin/Debug/netcoreapp3.1
-/QuoteManager/.vs/QuoteManager/DesignTimeBuild/.dtbcache.v2

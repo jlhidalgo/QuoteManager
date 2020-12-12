@@ -16,3 +16,9 @@ This project was developed as a coding exercise where specific requirements were
 - C# as programming language.
 - Implement a class based on the IQuoteManager interface definition (review the IQuoteManager.cs file for the whole list of requirements).
 - Other classes can be added in order to support the implementation, however, a specific requirement asked to **not modify the definition of IQuoteManager**.
+
+## Stack of Technologies
+- C#
+- .NET Core 3.1
+- Moq
+- MsTest

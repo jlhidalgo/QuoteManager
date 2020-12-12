@@ -14,5 +14,5 @@ This project was developed as a coding exercise where specific requirements were
 ## General Requirements
 - Project must use .NET Core.
 - C# as programming language.
-- Implement a class based on the IQuoteManager interface definition (do not modify this interface).
-- Other classes can be added.
+- Implement a class based on the IQuoteManager interface definition (review the IQuoteManager.cs file for the whole list of requirements).
+- Other classes can be added in order to support the implementation, however, a specific requirement asked to **not modify the definition of IQuoteManager**.
